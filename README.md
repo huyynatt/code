@@ -1,2 +1,1 @@
-# DuAnGame
-Game
+git commit -m "first commit"
